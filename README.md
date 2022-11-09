@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lilli-T
 - 👀 I’m interested in learning HTML, CSS, and Python
-- 🌱 I’m currently learning Java and JavaScript
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on mobile app projects
 - 📫 How to reach me: email; lillitoone@gmail.com / linkedin; https://www.linkedin.com/in/lilli-t-9211581b8/
 
