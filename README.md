@@ -1,3 +1,5 @@
+My portfolio: https://lilli-t.github.io/
+
 - 👋 Hi, I’m @Lilli-T
 - 👀 I’m interested in learning Python
 - 🌱 I’m currently learning React Native
